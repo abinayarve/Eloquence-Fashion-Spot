@@ -1,1 +1,1 @@
-# Eloquence-Fashion-Spot
+# Eloquence-Fashion-Spot website
